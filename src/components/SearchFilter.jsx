@@ -13,7 +13,7 @@ const SearchFilter = () => {
 
   return (
     <div className="max-w-full mx-auto sm:p-4 mb-4">
-      <div className="flex flex-wrap items-center sm:justify-end gap-4 px-11">
+      <div className="flex flex-wrap items-center sm:justify-end gap-4 sm:px-11 px-4">
         {/* Search Bar */}
         <input
           type="text"
