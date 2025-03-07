@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/property-listing/static/css/main.ffa5ac1c.css",
+    "main.js": "/property-listing/static/js/main.39d79a1f.js",
+    "index.html": "/property-listing/index.html",
+    "main.ffa5ac1c.css.map": "/property-listing/static/css/main.ffa5ac1c.css.map",
+    "main.39d79a1f.js.map": "/property-listing/static/js/main.39d79a1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffa5ac1c.css",
+    "static/js/main.39d79a1f.js"
+  ]
+}
